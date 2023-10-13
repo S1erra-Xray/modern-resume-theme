@@ -16,7 +16,7 @@ website: https://S1erra-Xray.github.io/modern-resume-theme/
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username: S1erra-Xray
